@@ -1,5 +1,5 @@
 # Sierra-Chart-Studies
-Some Sierra Chart Studies I made after rummaging through the tech docs.
+Some Sierra Chart Studies I have created after rummaging through the tech docs. I'm trader not a programmer, I use what is here,  no promises. 
 
 
 
