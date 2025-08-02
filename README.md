@@ -1,3 +1,3 @@
 # Sierra-Chart-Studies
 Some Sierra Chart Studies I made  after rummaging through the  tech docs.  
-use at your own risk, i'm just make stuff that works for me. 
+These are here for learning and storage. Use at your own risk, I'm just make stuff that works for me. 
